@@ -1,0 +1,20 @@
+
+INSERT INTO "customer" VALUES('C01991','Sonia','Matthews','craigbarajas@williamson.com','Sylviafort','MS');
+INSERT INTO "customer" VALUES('C01992','Andrew','Turner','pcross@hotmail.com','New Anthonybury','MT');
+INSERT INTO "customer" VALUES('C01993','Daniel','Flynn','careyjohn@ortiz.com','Port Larrymouth','TN');
+INSERT INTO "customer" VALUES('C01994','Nicole','Griffin','barkertaylor@hampton.info','North Ericshire','NJ');
+INSERT INTO "customer" VALUES('C01995','Vincent','Long','millerjodi@hotmail.com','Wolffort','FL');
+INSERT INTO "customer" VALUES('C01996','David','Warren','alan72@salas.com','Villarrealtown','WV');
+INSERT INTO "customer" VALUES('C01997','Amber','Lawson','raydana@sanders.com','New Gabriel','NM');
+INSERT INTO "customer" VALUES('C01998','Ivan','Jenkins','beckyjones@hotmail.com','Davidland','NH');
+INSERT INTO "customer" VALUES('C01999','Kathleen','Hodges','brandondiaz@mcdowell.biz','Stephaniechester','TX');
+INSERT INTO "customer" VALUES('C02000','Julie','Smith','mcdowellkatie@yahoo.com','West Dianechester','DE');
+
+
+
+
+
+
+INSERT INTO customer VALUES(999998,'Juan Green','9529 Hill Boulevard','East Joshuaton',176,9.76);
+INSERT INTO customer VALUES(999999,'Darrell Johnson','2886 Cedar Lane','East Gregoryville',400,81.75);
+INSERT INTO customer VALUES(1000000,'Darrell Le','1254 Church Avenue','South Kimberlytown',274,30.01);

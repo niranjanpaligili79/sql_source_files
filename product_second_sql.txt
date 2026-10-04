@@ -1,0 +1,11 @@
+
+INSERT INTO "products" VALUES('P0491','Floor Sit','Clothing','LG',1602.21);
+INSERT INTO "products" VALUES('P0492','A Forward','Home','Nike',121.07);
+INSERT INTO "products" VALUES('P0493','Pass Go','Toys','Samsung',295.7);
+INSERT INTO "products" VALUES('P0494','Personal Stand','Toys','Apple',1913.83);
+INSERT INTO "products" VALUES('P0495','Sister Question','Toys','Sony',561.99);
+INSERT INTO "products" VALUES('P0496','Beyond Some','Beauty','Apple',137.62);
+INSERT INTO "products" VALUES('P0497','Reflect Chair','Beauty','Lenovo',930.59);
+INSERT INTO "products" VALUES('P0498','Economic Over','Beauty','Adidas',1990.58);
+INSERT INTO "products" VALUES('P0499','Writer Mouth','Home','Revlon',1774.16);
+INSERT INTO "products" VALUES('P0500','Itself Despite','Electronics','Puma',322.4);
